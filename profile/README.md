@@ -1,0 +1,1 @@
+![animated-banner](../assets/animated-banner.gif)
