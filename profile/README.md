@@ -1,1 +1,1 @@
-![animated-banner](../assets/animated-banner.gif)
+<img src="https://raw.githubusercontent.com/loreddev/.github/main/assets/animated-banner.gif">
