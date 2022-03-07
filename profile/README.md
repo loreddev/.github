@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="700" src="https://raw.githubusercontent.com/LoredDev/.github/main/assets/animated-banner.gif">
+	<img src="https://raw.githubusercontent.com/LoredDev/.github/main/assets/animated-banner.gif">
 	<h3><i>From developers, to developers</i></h3>
 
 ![Star][starsbadge]
