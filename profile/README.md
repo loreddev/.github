@@ -7,7 +7,7 @@
 </div>
 
 Hello, welcome to Lored! An organization, and personal project, founded by 
-@Guz013 to create resources, apps, templates, interfaces, libraries... to 
+@Guz to create resources, apps, templates, interfaces, libraries... to 
 help other developers on their development and work process and experience.
 
 Everything here is open-source, *most licensed on permissive licenses like 
