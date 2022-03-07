@@ -3,6 +3,7 @@
 	<h3><i>From developers, to developers</i></h3>
 
 ![Star][starsbadge]
+[![Support][supportbadge]][support]
 
 </div>
 
@@ -18,14 +19,8 @@ your needs!
 > but we have a lot of ideas for the future. And what's the best way to 
 > learn something? Doing it!
 
-<div align="center">
 
-
-[![Support][supportbadge]][support]
-
-</div>
-
-
-[starsbadge]: https://img.shields.io/github/stars/loreddev?style=flat-square&logo=Github&logoColor=96cdfb&labelColor=161032&color=96cdfb
-[supportbadge]: https://img.shields.io/badge/Support-white?style=flat-square&labelColor=d9e0ee&color=d9e0ee&logoColor=161320&logo=Ko-Fi
+[starsbadge]: https://img.shields.io/github/stars/loreddev?style=for-the-badge&logo=Github&logoColor=96cdfb&labelColor=161032&color=96cdfb
+[supportbadge]: https://img.shields.io/badge/Kofi-white?style=for-the-badge&labelColor=161032&color=c78dff&&logoColor=c78dff&logo=Ko-Fi&label=Support
+[languagebadge]: https://img.shields.io/github/languages/top/:user/:repo
 [support]: https://www.ko-fi.com/guz013
