@@ -1,0 +1,14 @@
+name: "Mirror .github"
+
+on:
+  push: 
+    branches:
+      - "main"
+      - "dev"
+
+jobs:
+  mirror:
+    uses: ./.github/workflows/mirrors.yml
+    secrets: inherit
+    with:
+      codeberg-repo: https://codeberg.org/LoredDev/.codeberg

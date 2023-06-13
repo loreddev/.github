@@ -1,0 +1,29 @@
+name: "Mirrors"
+
+on: 
+  workflow_call:
+    inputs:
+      codeberg-repo: 
+        required: false
+        type: string
+    secrets:
+      CODEBERG_USERNAME:
+        required: false
+      CODEBERG_TOKEN:
+        required: false
+
+jobs:
+  to-codeberg:
+    if: ${{ inputs.codeberg-repo }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with: 
+          fetch-depth: 0
+      - name: Mirror to Codeberg
+        uses: LoredDev/mirror-action@master 
+        with:
+          REMOTE: ${{ inputs.codeberg-repo }}
+          GIT_USERNAME: ${{ secrets.CODEBERG_USERNAME }}
+          GIT_PASSWORD: ${{ secrets.CODEBERG_TOKEN }}
