@@ -92,17 +92,6 @@
        x2="156.65974"
        y2="-4.3912697"
        gradientTransform="matrix(-0.82103432,0,0,0.82103432,321.36311,129.55755)" />
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter7935"
-       x="-0.027252715"
-       y="-0.026751926"
-       width="1.0545053"
-       height="1.0535039">
-      <feGaussianBlur
-         stdDeviation="0.081526163"
-         id="feGaussianBlur7937" />
-    </filter>
   </defs>
   <g
      id="layer5"
@@ -121,7 +110,7 @@
          d="M 157.8285,-1.11757 V 0.34140073 6.1991473 h 7.19227 l -0.01,-7.3167173 z m 2.91122,2.9112143 h 1.36394 v 1.4968114 h -1.36394 V 1.9593026 Z m -10.09086,4.405503 v 1.455607 5.8602697 h 7.19227 l -0.013,-7.3158767 z m 2.91121,2.9112143 h 1.3631 v 1.4968114 h -1.3631 V 9.2760199 Z" />
       <path
          id="path7680"
-         style="color:#000000;fill:url(#linearGradient7666);fill-opacity:1;stroke:none;stroke-width:0.202;stroke-dasharray:none;filter:url(#filter7935)"
+         style="color:#000000;fill:url(#linearGradient7666);fill-opacity:1;stroke:none;stroke-width:0.202;stroke-dasharray:none"
          d="m 192.84157,126.05331 -0.006,3.65444 h 3.59138 v -2.93773 -0.71671 z m 1.4282,1.43186 h 0.62497 0.10217 v 0.79229 h -0.72714 z m 2.15701,2.22258 -0.008,3.65953 h 3.59636 v -2.94338 -0.71615 z m 1.42811,1.43437 h 0.62531 0.10283 v 0.79288 h -0.72814 z"
          transform="matrix(1.9991323,0,0,1.9991323,-234.85485,-253.10381)" />
     </g>
