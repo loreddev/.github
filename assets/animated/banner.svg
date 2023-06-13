@@ -22,9 +22,9 @@
       </linearGradient>
       <filter style="color-interpolation-filters:sRGB" id="filter13042" x="-0.050009012" y="-0.15638316"
          width="1.100018" height="1.4143012">
-         <feFlood flood-opacity="0.678431" flood-color="rgb(0,0,0)" result="flood" id="feFlood13032" />
+         <feFlood flood-opacity="0.40" flood-color="rgb(0,0,0)" result="flood" id="feFlood13032" />
          <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" id="feComposite13034" />
-         <feGaussianBlur in="composite1" stdDeviation="3.85048" result="blur" id="feGaussianBlur13036" />
+         <feGaussianBlur in="composite1" stdDeviation="5.85048" result="blur" id="feGaussianBlur13036" />
          <feOffset dx="0" dy="6" result="offset" id="feOffset13038" />
          <feComposite in="SourceGraphic" in2="offset" operator="over" result="composite2" id="feComposite13040" />
       </filter>
