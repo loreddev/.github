@@ -21,12 +21,13 @@
          <stop style="stop-color:#153226;stop-opacity:1;" offset="1" id="stop30585" />
       </linearGradient>
       <style>
-         svg {
-            filter: drop-shadow(0px 10px 10px #000000);
+         svg > #layer1 {
+            filter: drop-shadow(0px 5px 3px #000000);
+            scale: 80%;
          }
       </style>
    </defs>
-   <g id="layer1" transform="translate(-2.1830225,-4.0724858)">
+   <g id="layer1" transform="translate(24.1830225,0.0724858)">
       <g id="layer8">
          <path id="rect53442" style="fill:#171717;stroke-width:0.137795"
             d="M 3.0750426,4.0724857 H 206.50638 c 0.49418,0 0.89202,0.397841 0.89202,0.89202 V 68.805298 c 0,0.494179 -0.39784,0.89202 -0.89202,0.89202 H 3.0750426 c -0.494179,0 -0.8920198,-0.397841 -0.8920198,-0.89202 V 4.9645057 c 0,-0.494179 0.3978408,-0.89202 0.8920198,-0.89202 z" />
