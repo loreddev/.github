@@ -20,6 +20,11 @@
          <stop style="stop-color:#18794e;stop-opacity:1;" offset="0.75" id="stop32275" />
          <stop style="stop-color:#153226;stop-opacity:1;" offset="1" id="stop30585" />
       </linearGradient>
+      <style>
+         svg {
+            filter: drop-shadow(0px 10px 10px #000000);
+         }
+      </style>
    </defs>
    <g id="layer1" transform="translate(-2.1830225,-4.0724858)">
       <g id="layer8">
