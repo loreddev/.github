@@ -3,7 +3,7 @@ name: "Deploy on Vercel"
 on:
   workflow_call:
     secrets: 
-      GITHUB_TOKEN:
+      GH_TOKEN:
         required: true
       VERCEL_TOKEN:
         required: true
