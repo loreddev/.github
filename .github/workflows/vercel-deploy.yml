@@ -3,8 +3,6 @@ name: "Deploy on Vercel"
 on:
   workflow_call:
     secrets: 
-      GH_TOKEN:
-        required: true
       VERCEL_TOKEN:
         required: true
       VERCEL_PROJECT_ID:
