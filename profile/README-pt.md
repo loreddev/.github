@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/LoredDev/.github/main/assets/animated/banner.svg">
+	<img src="https://raw.githubusercontent.com/LoredDev/.github/main/assets/profile-banner.svg">
 </div>
 
 <div align="center">
