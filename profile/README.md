@@ -35,4 +35,4 @@ All of them are licensed under permissive licenses.
 	<a href="https://github.com/LoredDev/.github/blob/main/LICENSE-CC-BY-SA-4.0">CC BY-SA 4.0</a> 
 	&copy; Gustavo "Guz" L. de Mello
 </small>
-<img align="right" src="https://raw.githubusercontent.com/LoredDev/.github/main/assets/misc/logo-013-light.svg" width="30ch">
+<img align="right" src="https://raw.githubusercontent.com/LoredDev/.github/main/assets/013-logo.svg" width="30ch">

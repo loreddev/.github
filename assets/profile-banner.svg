@@ -51,17 +51,17 @@
 			}
 		}
 
-		html[data-color-mode="dark"][data-dark-theme="dark"] path#path70-3,
-		html[data-color-mode="dark"][data-dark-theme="dark_high_contrast"] path#path70-3,
-		html[data-color-mode="dark"][data-dark-theme="dark_colorblind"] path#path70-3 {
+		html[data-color-mode="dark"][data-dark-theme="dark"] path,
+		html[data-color-mode="dark"][data-dark-theme="dark_high_contrast"] path,
+		html[data-color-mode="dark"][data-dark-theme="dark_colorblind"] path {
 			--background: #000000 !important;
 			--foreground: #ffffff !important;
 		}
 
-		html[data-color-mode="light"][data-light-theme="light"] path#path70-3,
-		html[data-color-mode="light"][data-light-theme="light_high_contrast"] path#path70-3,
-		html[data-color-mode="light"][data-light-theme="light_colorblind"] path#path70-3,
-		html[data-color-mode="dark"][data-light-theme="dark_dimmed"] path#path70-3 {
+		html[data-color-mode="light"][data-light-theme="light"] path,
+		html[data-color-mode="light"][data-light-theme="light_high_contrast"] path,
+		html[data-color-mode="light"][data-light-theme="light_colorblind"] path,
+		html[data-color-mode="dark"][data-light-theme="dark_dimmed"] path {
 			--background: #ffffff !important;
 			--foreground: #000000 !important;
 		}
