@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://raw.githubusercontent.com/LoredDev/.github/main/assets/animated/banner.svg">
+	<img src="./../assets/profile-banner.svg">
 </div>
 
 <div align="center">
@@ -39,21 +39,23 @@ All of them are licensed under permissive licenses.
 	</small>
 </em>
 
+<h3 align="center">by developers, to  developers</h3>
+
 ---
 
-<small>
+<small align="center">
 	<a href="https://github.com/LoredDev/.github/blob/main/LICENSE-CC-BY-SA-4.0">CC BY-SA 4.0</a> 
 	&copy; Gustavo "Guz" L. de Mello
 </small>
 <img align="right" src="https://raw.githubusercontent.com/LoredDev/.github/main/assets/misc/logo-013-light.svg" width="30ch">
 
-[gh-stars-badge]: https://img.shields.io/github/stars/loreddev?style=for-the-badge&logo=Github&logoColor=fcfcfc&labelColor=171717&color=fcfcfc
+[gh-stars-badge]: https://img.shields.io/github/stars/loreddev?style=for-the-badge&logo=Github&logoColor=ffffff&labelColor=000000&color=ffffff
 
 [support-kofi]: https://www.ko-fi.com/guz013
-[support-kofi-badge]: https://img.shields.io/badge/Ko--Fi-white?style=for-the-badge&labelColor=171717&color=fcfcfc&&logoColor=fcfcfc&logo=kofi&label=Support%20on
+[support-kofi-badge]: https://img.shields.io/badge/Ko--Fi-white?style=for-the-badge&labelColor=000000&color=ffffff&&logoColor=ffffff&logo=kofi&label=Support%20on
 
 [support-coffee]: https://www.buymeacoffee.com/guz013
-[support-coffee-badge]: https://img.shields.io/badge/BuyMeACoffee-white?style=for-the-badge&labelColor=171717&color=fcfcfc&&logoColor=fcfcfc&logo=buymeacoffee&label=Support%20on
+[support-coffee-badge]: https://img.shields.io/badge/BuyMeACoffee-white?style=for-the-badge&labelColor=000000&color=ffffff&&logoColor=ffffff&logo=buymeacoffee&label=Support%20on
 
-[by-badge]: https://img.shields.io/badge/Guz013-white?style=for-the-badge&labelColor=171717&color=fcfcfc&&logoColor=fcfcfc&label=An%20Org%20of
+[by-badge]: https://img.shields.io/badge/Guz013-white?style=for-the-badge&labelColor=000000&color=ffffff&&logoColor=ffffff&label=An%20Org%20of
 [guz-website]: https://guz.one
