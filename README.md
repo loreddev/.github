@@ -7,7 +7,7 @@
 		<small><samp><i>
 			<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="10ch"/> en-us
 			&bull;
-			<a href="https://github.com/LoredDev/.github/blob/main/profile/README-pt.md">
+			<a href="https://forgejo.capytal.company/loreddev/.profile/src/branch/main/README-pt.md">
 				<img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="10ch"/> pt-br
 			</a>
 		</i></samp></small>
